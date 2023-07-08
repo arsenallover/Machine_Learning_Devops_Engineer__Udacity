@@ -1,0 +1,4 @@
+root - INFO - Testing eda: SUCCESS: EDA results successfully saved!
+root - INFO - Testing encoder_helper: SUCCESS: Categorical columns correctly encoded.
+root - INFO - Testing feature_engineering: SUCCESS: Train test correctly split.
+root - INFO - Testing train_models: SUCCESS: Models successfully saved!
