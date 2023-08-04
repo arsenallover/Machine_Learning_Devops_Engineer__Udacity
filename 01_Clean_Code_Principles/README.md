@@ -52,7 +52,9 @@ python churn_script_logging_and_tests.py
 ## Classification performance
 
 - ROC Curves of the developed models
+  
 ![](./images/results/roc_curves.jpg)
 
 - Confusion Matrix of Random Forest model
+  
 ![](./images/results/classification_reports_rf.jpg)
