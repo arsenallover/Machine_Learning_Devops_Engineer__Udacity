@@ -6,7 +6,7 @@ name: Python application
 on:
   push:
     branches: [ "main" ]
-    paths: ['03_deploy_ml_with_fastapi/**]
+    paths: ['03_deploy_ml_with_fastapi/**']
 
 permissions:
   contents: read
