@@ -5,7 +5,8 @@ name: Python application
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
+    paths: ['03_deploy_ml_with_fastapi/**]
 
 permissions:
   contents: read
