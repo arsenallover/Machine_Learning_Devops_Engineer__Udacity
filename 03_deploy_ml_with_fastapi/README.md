@@ -1,5 +1,5 @@
 # Project Overview
-This is the project #3 of Udacity's ML DevOps Engineer nanodegree. Objective is to deploy a ML model with FastAPI on Heroku.
+This is the project #3 of Udacity's ML DevOps Engineer nanodegree. Objective is to deploy a ML model with FastAPI on Heroku
 
 
 The project follows these steps:
